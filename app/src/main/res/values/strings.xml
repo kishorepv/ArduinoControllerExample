@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Arduino Controller Example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="switch1">Pin 22</string>
+    <string name="switch2">Pin 24</string>
+    <string name="switch3">Pin 26</string>
+    <string name="switch4">Pin 28</string>
+
+</resources>
